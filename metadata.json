@@ -1,0 +1,6 @@
+{
+  "name": "Excel Office Suite Pro",
+  "description": "Potente suite ofimática y editor de hojas de cálculo con soporte XLSX, XLSM, XLSB, VBA, macros, Google Drive, autoguardado, cifrado, colaboración en tiempo real y exportación multiformato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
